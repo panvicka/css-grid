@@ -5,9 +5,11 @@
 
   Let's go through the important bits real quick
 */
+
+
 :root {
-  --yellow: #ffc600;
-  --black: #272727;
+  --yellow: #ffc600; /*specific yellow */
+  --black: #272727;/*specific black */
 }
 
 html {
